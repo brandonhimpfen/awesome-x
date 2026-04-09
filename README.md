@@ -59,6 +59,7 @@ This list is intended for developers, marketers, researchers, and content creato
 - [BirdIQ](https://birdiq.io/) — Twitter analytics and follower insights.
 - [Twarc](https://github.com/DocNow/twarc) — Command-line tool and Python library for collecting Twitter data.
 - [Twitter Archive Parser](https://github.com/DocNow/twitter-archive-parser) — Extract and analyze data from Twitter archive files.
+- [Xquik](https://xquik.com) — All-in-one X automation platform with 40+ REST API endpoints, MCP server, and webhooks.
 
 ## Communities & Forums
 
