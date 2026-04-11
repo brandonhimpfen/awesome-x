@@ -52,6 +52,7 @@ This list is intended for developers, marketers, researchers, and content creato
 
 - [Hootsuite](https://hootsuite.com/) — Social media management platform supporting X.
 - [Buffer](https://buffer.com/) — Schedule and analyze social media posts.
+- [BulkPublish](https://www.bulkpublish.com/) — Social media scheduling platform with X/Twitter support, REST API, Python/Node.js SDKs, and MCP server for AI-assisted publishing.
 - [TweetDeck](https://tweetdeck.twitter.com/) — Official multi-account Twitter management tool.
 
 ## Third-Party Tools
