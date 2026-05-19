@@ -36,6 +36,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [X v2 API](https://developer.x.com/en/docs/twitter-api) — Latest version of the Twitter/X API.
 - [X Ads API](https://developer.x.com/en/docs/twitter-ads-api) — Manage ad campaigns on X.
+- [TwitterAPI.io](https://twitterapi.io) — Affordable third-party real-time API for public X data: tweets, profiles, search, and user lookups. From $0.15 per 1K tweets with sub-500ms latency and 1000+ req/sec.
 - [tweepy](https://www.tweepy.org/) — Popular Python library for accessing the Twitter API.
 - [Twitter4J](https://twitter4j.org/en/index.html) — Java library for the Twitter API.
 
