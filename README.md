@@ -36,6 +36,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [X v2 API](https://developer.x.com/en/docs/twitter-api) — Latest version of the Twitter/X API.
 - [X Ads API](https://developer.x.com/en/docs/twitter-ads-api) — Manage ad campaigns on X.
+- [GetXAPI](https://www.getxapi.com) — Third-party API for X data. Read endpoints (search, profiles, follower graph, timeline, bookmarks, mentions) and write endpoints (post tweets, like, retweet, follow, DM, articles). Bearer-token auth. Public OpenAPI 3.1 spec.
 - [tweepy](https://www.tweepy.org/) — Popular Python library for accessing the Twitter API.
 - [Twitter4J](https://twitter4j.org/en/index.html) — Java library for the Twitter API.
 
