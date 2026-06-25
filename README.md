@@ -56,6 +56,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Hootsuite](https://hootsuite.com/) — Social media management platform supporting X.
 - [Buffer](https://buffer.com/) — Schedule and analyze social media posts.
 - [TweetDeck](https://tweetdeck.twitter.com/) — Official multi-account Twitter management tool.
+- [The Free X Growth Course](https://slappost.app/learn/) — Free, no-login course with 5 lessons on growing on X: hooks, threads, the open-source algorithm, replies, and your profile funnel.
 
 ## Third-Party Tools
 
