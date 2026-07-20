@@ -62,6 +62,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [BirdIQ](https://birdiq.io/) — Twitter analytics and follower insights.
 - [Twarc](https://github.com/DocNow/twarc) — Command-line tool and Python library for collecting Twitter data.
 - [Twitter Archive Parser](https://github.com/DocNow/twitter-archive-parser) — Extract and analyze data from Twitter archive files.
+- [tweet.md](https://tweet.md/) — Convert public X posts, threads, Articles, and profiles to attributed Markdown.
 
 ## Communities & Forums
 
