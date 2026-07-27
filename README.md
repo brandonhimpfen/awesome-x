@@ -53,6 +53,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Marketing & Automation
 
+- [SocialClaw](https://getsocialclaw.com/) — Schedule and publish posts to X and 10 other platforms via dashboard, API, CLI, or MCP.
 - [Hootsuite](https://hootsuite.com/) — Social media management platform supporting X.
 - [Buffer](https://buffer.com/) — Schedule and analyze social media posts.
 - [TweetDeck](https://tweetdeck.twitter.com/) — Official multi-account Twitter management tool.
