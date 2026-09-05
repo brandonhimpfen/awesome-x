@@ -1,4 +1,4 @@
-# Awesome X [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome X [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1021700621.svg)](https://doi.org/10.5281/zenodo.19682100)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -71,10 +71,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Social Media](https://github.com/awesomelistsio/awesome-social-media)**
-- **[Awesome Digital Marketing](https://github.com/awesomelistsio/awesome-digital-marketing)**
-- **[Awesome OSINT](https://github.com/awesomelistsio/awesome-osint)**
-- **[Awesome Internet Freedom](https://github.com/awesomelistsio/awesome-internet-freedom)**
+- **[Awesome Social Media](https://github.com/brandonhimpfen/awesome-social-media)**
+- **[Awesome Digital Marketing](https://github.com/brandonhimpfen/awesome-digital-marketing)**
+- **[Awesome OSINT](https://github.com/brandonhimpfen/awesome-osint)**
+- **[Awesome Internet Freedom](https://github.com/brandonhimpfen/awesome-internet-freedom)**
   
 ## Contribute
 
