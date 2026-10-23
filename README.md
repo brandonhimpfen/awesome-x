@@ -50,9 +50,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Data & Analytics
 
-- [Twitter Data Tools](https://tools.digitalmethods.net/beta/twittertools/) — Academic tools for analyzing Twitter data.
 - [NodeXL](https://www.smrfoundation.org/nodexl/) — Social network analysis for Twitter and other platforms.
-- [Social Bearing](https://socialbearing.com/) — Free analytics for Twitter searches and accounts.
 
 ## Marketing & Automation
 
@@ -62,7 +60,6 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Third-Party Tools
 
-- [BirdIQ](https://birdiq.io/) — Twitter analytics and follower insights.
 - [Twarc](https://github.com/DocNow/twarc) — Command-line tool and Python library for collecting Twitter data.
 - [Twitter Archive Parser](https://github.com/DocNow/twitter-archive-parser) — Extract and analyze data from Twitter archive files.
 
